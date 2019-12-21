@@ -15,6 +15,7 @@
 		BA1CF94D23ADC83A0012B3A4 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BA1CF94B23ADC83A0012B3A4 /* LaunchScreen.storyboard */; };
 		BA1CF95823ADC83A0012B3A4 /* weatherApp1Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA1CF95723ADC83A0012B3A4 /* weatherApp1Tests.swift */; };
 		BA1CF96323ADC83B0012B3A4 /* weatherApp1UITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA1CF96223ADC83B0012B3A4 /* weatherApp1UITests.swift */; };
+		BA1CF97123ADC8920012B3A4 /* daniel-j-schwarz-lERuUa_96uo-unsplash.jpg in Resources */ = {isa = PBXBuildFile; fileRef = BA1CF97023ADC8910012B3A4 /* daniel-j-schwarz-lERuUa_96uo-unsplash.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		BA1CF95E23ADC83B0012B3A4 /* weatherApp1UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = weatherApp1UITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		BA1CF96223ADC83B0012B3A4 /* weatherApp1UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = weatherApp1UITests.swift; sourceTree = "<group>"; };
 		BA1CF96423ADC83B0012B3A4 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		BA1CF97023ADC8910012B3A4 /* daniel-j-schwarz-lERuUa_96uo-unsplash.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "daniel-j-schwarz-lERuUa_96uo-unsplash.jpg"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +105,7 @@
 				BA1CF94223ADC8380012B3A4 /* SceneDelegate.swift */,
 				BA1CF94423ADC8380012B3A4 /* ViewController.swift */,
 				BA1CF94623ADC8380012B3A4 /* Main.storyboard */,
+				BA1CF97023ADC8910012B3A4 /* daniel-j-schwarz-lERuUa_96uo-unsplash.jpg */,
 				BA1CF94923ADC83A0012B3A4 /* Assets.xcassets */,
 				BA1CF94B23ADC83A0012B3A4 /* LaunchScreen.storyboard */,
 				BA1CF94E23ADC83A0012B3A4 /* Info.plist */,
@@ -235,6 +238,7 @@
 				BA1CF94D23ADC83A0012B3A4 /* LaunchScreen.storyboard in Resources */,
 				BA1CF94A23ADC83A0012B3A4 /* Assets.xcassets in Resources */,
 				BA1CF94823ADC8380012B3A4 /* Main.storyboard in Resources */,
+				BA1CF97123ADC8920012B3A4 /* daniel-j-schwarz-lERuUa_96uo-unsplash.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
